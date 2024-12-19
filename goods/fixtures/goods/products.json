@@ -1,0 +1,173 @@
+
+
+[
+    {
+        "model": "goods.products",
+        "pk": 1,
+        "fields": {
+            "name": "Warhammer 40,000: Space Marine 2",
+            "slug": "warhammer-40000-space-marine-2",
+            "description": "FOR THE EMPEROR",
+            "image": "goods.images/Space_Marine_II_cover_art.jpg",
+            "price": "40.00",
+            "discount": "40.00",
+            "quantity": 100,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 2,
+        "fields": {
+            "name": "Battlefield 1",
+            "slug": "battlefield-1",
+            "description": "World War 1 ection fps shooter",
+            "image": "goods.images/Battlefield_1.jpg",
+            "price": "30.00",
+            "discount": "90.00",
+            "quantity": 100,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 3,
+        "fields": {
+            "name": "PUBG",
+            "slug": "pubg",
+            "description": "Hungury games , and most popular battle royal",
+            "image": "goods.images/44704_PlayerUnknowns_Battlegrounds.jpg",
+            "price": "30.00",
+            "discount": "30.00",
+            "quantity": 100,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 4,
+        "fields": {
+            "name": "Silent Hill",
+            "slug": "silent-hill",
+            "description": "Remake of the legendary game",
+            "image": "goods.images/3jmqvqa0tho21.webp",
+            "price": "59.00",
+            "discount": "15.00",
+            "quantity": 100,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 5,
+        "fields": {
+            "name": "Resident Evil 2",
+            "slug": "resident-evil-2",
+            "description": "One of the most popular part of the Resident Evil series",
+            "image": "goods.images/Resident_Evil_2_Remake_coverart.jpg",
+            "price": "30.00",
+            "discount": "40.00",
+            "quantity": 100,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 6,
+        "fields": {
+            "name": "The forest",
+            "slug": "the-forest",
+            "description": "Single on the iceland with hanibals",
+            "image": "goods.images/TheForest.webp",
+            "price": "9.00",
+            "discount": "70.00",
+            "quantity": 100,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 7,
+        "fields": {
+            "name": "Miencraft",
+            "slug": "miencraft",
+            "description": "I really need to talk about this game?",
+            "image": "goods.images/Minecraft_Cover_Art.png",
+            "price": "30.00",
+            "discount": "10.00",
+            "quantity": 100,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 8,
+        "fields": {
+            "name": "Garrys mod",
+            "slug": "garrys-mod",
+            "description": "Its time to show , the real definition of word \"PlayGround",
+            "image": "goods.images/lGNl1QrYl9IMzE-big.webp",
+            "price": "5.00",
+            "discount": "50.00",
+            "quantity": 100,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 9,
+        "fields": {
+            "name": "Squad",
+            "slug": "squad",
+            "description": "One of the best millsims ever created",
+            "image": "goods.images/ba9578436340b7bb205190560b5e0d94.jpg",
+            "price": "20.00",
+            "discount": "20.00",
+            "quantity": 100,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 10,
+        "fields": {
+            "name": "Fate/stay night",
+            "slug": "fatestay-night",
+            "description": "Please Artoria step on me",
+            "image": "goods.images/MV5BOWQ1ZDdiMDItYTc2My00ZjZkLWJlMzktYTZmNGY5MWQwODU2XkEyXkFqcGc._V1_FMjpg_UX1000_.jpg",
+            "price": "15.00",
+            "discount": "1.00",
+            "quantity": 100,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 11,
+        "fields": {
+            "name": "Tsukihime",
+            "slug": "tsukihime",
+            "description": "Lets breed Arceuid",
+            "image": "goods.images/rIgEHv7qojJncnH4Msler23l55pLwEJLMyxdC3fUNUT6SApDEJDDOoUhj6uhBOqUhK4arBQzd98_5o9QIV3.jpg",
+            "price": "15.00",
+            "discount": "5.00",
+            "quantity": 100,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 12,
+        "fields": {
+            "name": "Witch on the Holy Night",
+            "slug": "witch-on-the-holy-night",
+            "description": "Just good VN",
+            "image": "goods.images/mahotsukai_no_yoru-916944997-large.jpg",
+            "price": "20.00",
+            "discount": "5.00",
+            "quantity": 100,
+            "category": 7
+        }
+    }
+]
+
